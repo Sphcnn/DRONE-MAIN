@@ -34,3 +34,8 @@ print("Adı = " + bilgiler.split()[0])
 print("Soyadı = " + bilgiler.split()[1])
 print("Yaşı = "+ bilgiler.split()[2])
 print("Yaşadığı şehir = " + bilgiler.split()[3])
+
+x = input("Sayı 1 = ? ")
+y = input("Sayı 2 = ?" )
+
+print(int(x) + int(y))
